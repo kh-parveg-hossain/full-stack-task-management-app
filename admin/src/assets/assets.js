@@ -14,4 +14,4 @@ export const assets ={
     parcel_icon
 }
 
-export const url = 'https://full-stack-task-management-app-dti9.onrender.com/'
+export const url = 'https://full-stack-task-management-app-backend-sany.onrender.com'
